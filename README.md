@@ -108,3 +108,9 @@ pip install -r requirements.txt
 * Probar embeddings (Word2Vec, BERT) para enriquecer los títulos.
 * Extender el análisis por categoría/duración.
 * Incorporar métricas de negocio personalizadas para definir “hit”.
+
+---
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
