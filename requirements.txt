@@ -1,0 +1,21 @@
+# Base
+numpy==1.26.4
+pandas==2.2.2
+scipy==1.11.4
+
+# Modelado y métricas
+scikit-learn==1.3.2
+xgboost==1.7.6
+
+# Grafos y visualización
+networkx==3.2.1
+matplotlib==3.8.4
+
+# Notebooks
+ipykernel==6.29.5
+notebook==7.2.0
+jupyterlab==4.2.5
+
+# Utilidades
+joblib==1.3.2
+threadpoolctl==3.5.0
